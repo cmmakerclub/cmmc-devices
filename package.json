@@ -10,7 +10,7 @@
 		"font-awesome": "^4.7.0",
 		"jquery": "^3.2.1",
 		"moment": "^2.20.1",
-		"moment-timezone": "^0.5.14",
+		"moment-timezone": "^0.5.35",
 		"mqtt": "^2.15.1",
 		"popper.js": "^1.12.9",
 		"react": "^16.2.0",
